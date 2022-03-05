@@ -7,7 +7,7 @@
 
 [build]
   base    = "./frs-now"
-  publish = "./frs-now/build"
+  publish = "./build"
   command = "npm run build"
 
 [[redirects]]
